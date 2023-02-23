@@ -234,7 +234,7 @@ body {
 }
 @media only screen and (max-width: 600px) {
     .app--main__container {
-        width: 300px;
+        width: 325px;
     }
 
     .info--theme__icon {
