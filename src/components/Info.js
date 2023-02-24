@@ -7,7 +7,7 @@ export default function Info() {
 
             <img src={DisplayPic} alt="Display Picture" className="info--picture" />
 
-            <h1>Jan Swidzinski</h1>
+            <h1 className="name">Jan Swidzinski</h1>
 
             <h4>Human</h4>
 
